@@ -174,7 +174,7 @@ chmod +x setup-github-secrets.sh
 
 1. **Fork/Clone the repository**
    ```bash
-   git clone https://github.com/[YOUR-USERNAME]/azure-ai-chatbot.git
+   git clone https://github.com/kody-w/azure-ai-chatbot.git
    cd azure-ai-chatbot
    ```
 
@@ -221,7 +221,7 @@ chmod +x setup-github-secrets.sh
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/[YOUR-USERNAME]/azure-ai-chatbot.git
+   git remote add origin https://github.com/kody-w/azure-ai-chatbot.git
    git push -u origin main
    ```
 

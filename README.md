@@ -26,13 +26,13 @@ A production-ready AI chatbot built on Azure Functions with GPT-4, featuring per
 
 ### Option 1: One-Click Deploy to Azure
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2F[YOUR-USERNAME]%2F[YOUR-REPO]%2Fmain%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkody-w%2FCopilot-Advanced-Agent%2Fmain%2Fazuredeploy.json)
 
 ### Option 2: Deploy via Azure CLI
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/[YOUR-USERNAME]/azure-ai-chatbot.git
+git clone https://github.com/kody-w/azure-ai-chatbot.git
 cd azure-ai-chatbot
 ```
 
@@ -275,8 +275,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/[YOUR-USERNAME]/azure-ai-chatbot/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/[YOUR-USERNAME]/azure-ai-chatbot/discussions)
+- **Issues**: [GitHub Issues](https://github.com/kody-w/azure-ai-chatbot/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/kody-w/azure-ai-chatbot/discussions)
 - **Documentation**: [Full Docs](docs/)
 
 ---
